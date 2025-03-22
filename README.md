@@ -1,6 +1,6 @@
 # H4ck3r File Organizer
 
-[⬇️ Download H4ck3r File Organizer](https://github.com/user/H4ck3r_File_Organizer/raw/main/dist/H4ck3r_File_Organizer.exe)
+[⬇️ Download H4ck3r File Organizer](https://github.com/user/H4ck3r_File_Organizer/releases/latest/download/H4ck3r_File_Organizer.exe)
 
 A modern, hacker-themed file organization utility with a matrix-inspired interface designed to efficiently organize files by type.
 
@@ -49,7 +49,7 @@ A modern, hacker-themed file organization utility with a matrix-inspired interfa
 
 ### Option 1: Run the executable
 
-1. Download the latest release from the releases section
+1. Download the latest release from the [GitHub Releases](https://github.com/user/H4ck3r_File_Organizer/releases) section
 2. Run "H4ck3r_File_Organizer.exe"
 
 ### Option 2: Run from source
