@@ -1,5 +1,7 @@
 # H4ck3r File Organizer
 
+[⬇️ Download H4ck3r File Organizer](https://github.com/user/H4ck3r_File_Organizer/raw/main/dist/H4ck3r_File_Organizer.exe)
+
 A modern, hacker-themed file organization utility with a matrix-inspired interface designed to efficiently organize files by type.
 
 ## Features
